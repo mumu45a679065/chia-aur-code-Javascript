@@ -1,14 +1,14 @@
 const accountId = 144553
 let accountEmail = 'hitesh@google.com'
 var accountPasswaord = '1234'
-accountCity = 'Jaipur'
+accountCity = 'Jaipur' // possiblity variable can be decalred in such way(not prefered)
 let accountState;
 
 // accountId = 2 // not allowed
 
 accountEmail = 'google@gmail.com'
 accountPasswaord = '456'
-accountCity = 'jai' // possiblity variable can be decalred in such way(not prefered)
+accountCity = 'jai' 
 console.log(accountId);
 
 /* 
